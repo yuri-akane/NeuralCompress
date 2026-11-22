@@ -32,7 +32,7 @@ this is an experimental project. not suitable for product use.
 ## サポートコデックとライセンス
 
 | コデック名 | 開発元 / 年 | サンプリング周波数 | 標準ビットレート | ライセンス |
-| :--- | :--- | :--- | :--- | :--- | :---: |
+| :--- | :--- | :--- | :--- | :--- |
 | **SNAC** | Hubert Siuzdak (2024) | 24 / 32 / 44.1 kHz | 0.98 〜 2.6 kbps | MIT |
 | **DAC** | Descript (2023) | 44.1 kHz | 約 8.0 kbps | MIT |
 | **EnCodec** | Meta (2022) | 24 kHz | 1.5 〜 24 kbps | MIT |

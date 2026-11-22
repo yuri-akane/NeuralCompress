@@ -31,7 +31,7 @@ It provides both an extreme high-ratio audio archiver (.nc container) and a benc
 ## Supported Codecs & Licenses
 
 | Codec | Creator / Year | Sampling Rate | Typical Bitrate | License |
-| :--- | :--- | :--- | :--- | :--- | :---: |
+| :--- | :--- | :--- | :--- | :--- |
 | **SNAC** | Hubert Siuzdak (2024) | 24 / 32 / 44.1 kHz | 0.98 ~ 2.6 kbps | MIT |
 | **DAC** | Descript (2023) | 44.1 kHz | ~8.0 kbps | MIT |
 | **EnCodec** | Meta (2022) | 24 kHz | 1.5 ~ 24 kbps | MIT |
